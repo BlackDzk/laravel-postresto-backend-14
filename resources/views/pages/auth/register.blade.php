@@ -1,6 +1,6 @@
 @extends('layouts.auth')
 
-@section('title', 'Register Resto')
+@section('title', 'Register CBT')
 
 @push('style')
     <!-- CSS Libraries -->
